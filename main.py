@@ -252,7 +252,7 @@ iframe_page = """
 </head>
 <body>
   <a href="/logout" class="logout-btn">Logout</a>
-  <iframe src="http://fi9.bot-hosting.net:21808/"></iframe>
+  <iframe src="http://fi8.bot-hosting.net:21565/"></iframe>
 </body>
 </html>
 """
